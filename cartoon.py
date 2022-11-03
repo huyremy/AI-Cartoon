@@ -102,7 +102,7 @@ if __name__ == '__main__':
     weight = torch.load('cartoon.pth', map_location='cpu')
     model = SimpleGenerator()
     model.load_state_dict(weight)
-    #torch.save(model.state_dict(), 'weight.pth')
+    #torch.save(model.state_dict(), 'cuccut.pth')
     model.eval()
     
     name_list = os.listdir('images')
