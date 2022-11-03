@@ -2,7 +2,7 @@
 ------------
 Đầu tiên tạo 1 folder Images và 1 folder Results 
 Xong rồi Chmod 777 cho cả 2 folder images và results. 
-Xong rồi cho ảnh cần biến thành hoạt hình vào folder images. File ảnh phải là file jpg.
+Xong rồi cho ảnh cần biến thành hoạt hình vào folder images. File ảnh phải là file *.jpg.
 ------------
 Xong rồi: python3 cartoon.py
 ------------
